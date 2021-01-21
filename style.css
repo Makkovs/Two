@@ -1,0 +1,70 @@
+.content{
+    padding: 25px 100px;
+}
+
+.number{
+    position: relative;
+    top: -5px;
+    font-size: 18pt;
+    color: #5e696d;
+}
+
+.headmenu{
+    position: relative;
+    top: -33px;
+    left: 370px;
+    width: 500px;
+    height: 25px;
+    background: #1c5e7f;
+    border-radius: 3px;
+    box-shadow: 3px 3px #8888;
+    padding: 2px 2px 6px 6px;
+    white-space: nowrap;
+}
+
+.imgProfile{
+    position: relative;
+    top: 5px;
+}
+
+.inp{
+    width: 110px;
+}
+
+.abtn{
+    color:white;
+}
+.abtn a{
+    color:white;
+    text-decoration: none;
+    font-size: 10.91pt;
+}
+
+.password a{    
+    color: #bfbfbf;
+}
+
+.btns{
+    position: relative;
+    top: -23px;
+    left: 520px;
+    width: 75px;
+    height: 25px;
+    background: white;
+    border: 1px solid #ccc!important;
+    border-radius: 16px;
+}
+
+.home{
+    padding: 7px;
+}
+
+.map{
+    position: relative;
+    top: -7px;
+}
+.pochta{
+    position: relative;
+    top: -7px;
+    left: 4px;
+}
