@@ -15,8 +15,8 @@
     left: 370px;
     width: 500px;
     height: 25px;
-    background: #1c5e7f;
-    border-radius: 3px;
+    background: linear-gradient(to top, #1c5e7f, #3f8aaf);
+    border-radius: 5px;
     box-shadow: 3px 3px #8888;
     padding: 2px 2px 6px 6px;
     white-space: nowrap;
@@ -67,4 +67,62 @@
     position: relative;
     top: -7px;
     left: 4px;
+}
+
+.shapka{
+    position: relative;
+    top: -20px;
+}
+
+.navigation{
+    position: relative;
+    top: -15px;
+    height: 32px;
+    width: 830px;
+    background: linear-gradient(to top, #2e2d2c, #55524e);
+    border-radius: 8px;
+    padding: 5px 1px 1px 150px;
+    font-size: 13.64pt;
+}
+
+.this{
+    background: linear-gradient(to top, #064585, #317cc7);
+    border-radius: 15px;
+    border: none;
+    height: 30px;
+    color: white;
+}
+
+.other{
+    background: none;
+    border: none;
+    color: #99cccc;
+}
+
+.disk{
+    height: 130px;
+    width: 430px;
+    background: rgb(255, 255, 255);
+    border: 2px solid #c8c8c8;
+    border-radius: 20px;
+    padding: 1px 1px 1px 20px;
+}
+
+.tov_text{
+    color: #999999;
+}
+
+.price_text{
+    color: #006699;
+}
+
+.ttext{
+    margin-left: 85px;
+}
+
+.dh4{
+    position: relative;
+    top: -20px;
+    left: 125px;
+    color: #003366;
 }
